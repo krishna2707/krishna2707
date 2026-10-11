@@ -1,17 +1,5 @@
 # Krishna Malhotra
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=10B981&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Krishna+%F0%9F%91%8B;Exploring+Machine+Learning+%26+AI;Solving+problems+with+C%2B%2B;Learning+by+building+%26+contributing" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/krishna2707">
-    <img src="https://img.shields.io/badge/GitHub-krishna2707-181717?style=flat-square&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-10B981?style=flat-square" alt="Focus: Machine Learning" />
-  <img src="https://img.shields.io/badge/Open%20Source-Learning-blue?style=flat-square&logo=opensourceinitiative" alt="Open source" />
-</p>
-
 ---
 
 ### `whoami`
@@ -56,7 +44,6 @@ class Krishna:
 |---|---|
 | **YourBus** | A software project I'm working on. |
 | **Saarthi AI** | A Python-based voice assistant exploring speech recognition and text-to-speech. |
-| **Machine Learning Experiments** | Hands-on practice with data preprocessing, feature engineering, transformations and ML algorithms. |
 
 Explore my repositories for the code, experiments, and latest project updates:
 
@@ -81,7 +68,6 @@ I’m working towards becoming a better open-source contributor by learning to:
 - Write focused fixes and useful documentation.
 - Submit clear pull requests and respond to code reviews.
 
-If you're working on interesting developer tools, AI projects, or beginner-friendly open-source issues, let's connect through GitHub!
 
 ### `github_activity`
 
